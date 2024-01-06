@@ -2,19 +2,39 @@
 # Pasos del taller
 <br>
 
-Antes de comenzar te sugiero instalar Visual Studio Code: [AQUI](https://code.visualstudio.com/download)
+Antes de comenzar te sugiero instalar el editor de texto Visual Studio Code: [AQUI](https://code.visualstudio.com/download)
 <br>
 <br>
-También tener instaldo Git en tu ordenador: [AQUI](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
+También tener instalado Git en tu ordenador, puedes seguir los pasos: [AQUI](https://git-scm.com/book/es/v2/Inicio---Sobre-el-Control-de-Versiones-Instalaci%C3%B3n-de-Git)
 <br>
 <br>
-Si ya los tienes instalado puedes continuar!!
+Si ya los tienes instalado puedes continuar sin problemas!!
 
 <br>
 <br>
 <br>
 
+En esta plantilla te pongo a disposición una Aplicación Web Bancaria (Simple) llamada "TransferMoney" en la cual podrás realizar los ejercicios propuestos.
 
+<br>
+
+![image](https://github.com/mvthivs23/workshop-devops-template/assets/114781399/f21ea671-618c-4e45-9868-71ef9ac74d57)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+# Trabajando con Git y GitHub
+
+<br>
+<br>
+<br>
 
 
 
